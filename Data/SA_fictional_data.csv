@@ -1,10 +1,10 @@
-State,People_Reached,BMI_change
-Northern Cape,100000,-0.2
-Western Cape,580000,-0.1
-Eastern Cape,650000,-0.32
-Free State,270000,-0.02
-North West,350000,-1.2
-Gauteng,1200000,-1.235
-Limpopo,530000,0.01
-Mpumalanga,400000,-0.25
-KwaZulu-Natal,1000000,-0.6
+State,Country,People_Reached,BMI_change
+Northern Cape,Republic of South Africa (RSA),100000,-0.2
+Western Cape,Republic of South Africa (RSA),580000,-0.1
+Eastern Cape,Republic of South Africa (RSA),650000,-0.32
+Free State,Republic of South Africa (RSA),270000,-0.02
+North West,Republic of South Africa (RSA),350000,-1.2
+Gauteng,Republic of South Africa (RSA),1200000,-1.235
+Limpopo,Republic of South Africa (RSA),530000,0.01
+Mpumalanga,Republic of South Africa (RSA),400000,-0.25
+KwaZulu-Natal,Republic of South Africa (RSA),1000000,-0.6
